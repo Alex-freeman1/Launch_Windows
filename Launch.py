@@ -24,8 +24,8 @@ theta = np.linspace(0, 2 * pi, 10000)
 
 
 phi_deg = 28.5 # Launch latitude
-i = 50  # Inclination of the orbit
-theta_rot_deg = 45 # RAAN
+i = 75  # Inclination of the orbit
+theta_rot_deg = 70 # RAAN
 
 
 phi = np.radians(phi_deg)
